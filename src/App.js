@@ -18,9 +18,9 @@ function App() {
           Learn React
         </a>
 
-        <a href="https://metamask.app.link/send/0xAddress">Send ETH with MetaMask</a>
+        <a href="https://metamask.app.link/send/0x4081444763A8d6E2f1476C4357b6E46292Fa5feC">Send ETH with MetaMask</a>
 
-        <a href="https://link.trustwallet.com/send?address=0xAddress">Send ETH with Trust Wallet</a>
+        <a href="https://link.trustwallet.com/send?address=0x4081444763A8d6E2f1476C4357b6E46292Fa5feC">Send ETH with Trust Wallet</a>
 
       </header>
     </div>
